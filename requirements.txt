@@ -1,0 +1,12 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+transformers
+torch
+sentence-transformers
